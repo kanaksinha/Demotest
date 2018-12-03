@@ -1,1 +1,2 @@
 test for git and other command
+try to make it working
